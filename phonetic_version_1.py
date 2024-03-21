@@ -1,5 +1,6 @@
 import phonetics
 import string
+import gtts
 
 def is_palindrome(s):
     s = s.lower()
